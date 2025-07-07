@@ -41,11 +41,11 @@ This module introduced me to the basics of how devices communicate over networks
 - `ping` is a network tool that uses ICMP (Internet Control Message Protocol) packets.
 - Used to test the **connectivity and performance** between devices.
 
-## 🖧 Introduction to LAN
+##  Introduction to LAN
 
 **LAN (Local Area Network)** connects devices within a small geographic area like a home or office.
 
-### 🔁 Common LAN Topologies
+###  Common LAN Topologies
 
 - **Star Topology** – All devices connect to a central hub.
 - **Bus Topology** – Devices share a single communication line.
@@ -53,26 +53,26 @@ This module introduced me to the basics of how devices communicate over networks
 
 ---
 
-## 🔀 Networking Devices
+##  Networking Devices
 
-### 🔌 Switch
+###  Switch
 
 - Connects multiple devices using Ethernet.
 - Helps in forwarding data within LAN.
 
-### 📡 Router
+###  Router
 
 - Connects different networks and **routes data** between them.
 - Useful when devices are connected through multiple paths.
 
 ---
 
-## 🧮 Subnetting
+##  Subnetting
 
 - **Subnetting** = Dividing a network into smaller, manageable sections (subnets).
 - Helps organize and optimize network traffic.
 
-### 🔎 Key Identifiers
+###  Key Identifiers
 
 - **Network Address** – Identifies the network.  
   _Example: `192.168.1.0`_
@@ -85,7 +85,7 @@ This module introduced me to the basics of how devices communicate over networks
 
 ---
 
-## 📡 ARP (Address Resolution Protocol)
+##  ARP (Address Resolution Protocol)
 
 - ARP allows devices to **discover each other's MAC addresses** on a network.
 - Two message types:
@@ -94,12 +94,12 @@ This module introduced me to the basics of how devices communicate over networks
 
 ---
 
-## 🧠 DHCP (Dynamic Host Configuration Protocol)
+##  DHCP (Dynamic Host Configuration Protocol)
 
 - Automatically assigns IP addresses to devices on a network.
 - Saves time compared to manual configuration.
 
-### 🛠️ DHCP Process
+###  DHCP Process
 
 1. Discover  
 2. Offer  
@@ -108,7 +108,7 @@ This module introduced me to the basics of how devices communicate over networks
 
 ---
 
-## 🧱 OSI Model (Open Systems Interconnection)
+##  OSI Model (Open Systems Interconnection)
 
 The OSI model is a **7-layer framework** for understanding how network communication works.
 
