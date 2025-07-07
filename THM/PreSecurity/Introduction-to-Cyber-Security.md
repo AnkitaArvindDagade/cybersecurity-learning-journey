@@ -1,38 +1,54 @@
- Introduction to Cyber Security
-This module from the Pre-Security Path on TryHackMe introduced me to the fundamentals of cybersecurity. It explained the two main areas of the field—Offensive and Defensive Security, and gave insights into various cybersecurity career paths.
+#  Introduction to Cyber Security
 
- Key Topics Learned
-Offensive Security
-Involves breaking into computer systems, exploiting software bugs, and finding vulnerabilities to gain unauthorized access.
+This module from the **Pre-Security Path** on TryHackMe introduced me to the fundamentals of cybersecurity. It explained the two main areas of the field—**Offensive** and **Defensive Security**, and gave insights into various cybersecurity career paths.
 
-Main goal is to think like an attacker to discover weaknesses before malicious actors do.
+---
 
-Defensive Security
-Focuses on protecting systems from attacks, detecting intrusions, and responding to them effectively.
+##  Key Topics Learned
 
-Includes building secure systems and monitoring them using security tools and policies.
+###  Offensive Security
+- Involves breaking into computer systems, exploiting software bugs, and finding vulnerabilities to gain unauthorized access.
+- Main goal: Think like an attacker to discover weaknesses before malicious actors do.
 
-Security Operations Center (SOC)
-A team of cybersecurity professionals that monitors the network and systems to detect malicious activity.
+###  Defensive Security
+- Focuses on protecting systems from attacks, detecting intrusions, and responding to them effectively.
+- Includes building secure systems and monitoring them using security tools and policies.
 
-Key focus areas include vulnerabilities, unauthorized access, policy violations, and network intrusions.
+---
 
-Digital Forensics & Incident Response (DFIR)
-Involves analyzing cyberattacks after they happen, and investigating how they occurred.
+##  Important Concepts
 
-Includes malware analysis and threat intelligence.
+###  Security Operations Center (SOC)
+- A team of cybersecurity professionals that monitors the network and systems to detect malicious activity.
+- Key focus areas: vulnerabilities, unauthorized access, policy violations, and network intrusions.
 
-Career Roles
-Offensive: Penetration Tester, Red Teamer
+###  Digital Forensics & Incident Response (DFIR)
+- Involves analyzing cyberattacks after they happen, and investigating how they occurred.
+- Includes malware analysis and threat intelligence.
 
-Defensive: Security Engineer, SOC Analyst, Malware Analyst, Incident Responder, Forensics Examiner
+---
 
- Tools Used
-Gobuster – A tool used to find hidden web pages on websites.
+##  Career Roles
 
- Commands Practiced
+**Offensive Roles:**
+- Penetration Tester  
+- Red Teamer
+
+**Defensive Roles:**
+- Security Engineer  
+- SOC Analyst  
+- Malware Analyst  
+- Incident Responder  
+- Forensics Examiner
+
+---
+
+## 🛠️ Tools Used
+
+### 🧰 Gobuster
+A tool used to find hidden web pages on websites.
+
+**Command Example:**
+
+```bash
 gobuster dir -u http://sample.com -w wordlist.txt
--u → specifies the URL to scan
-
--w → provides the wordlist file for directory brute forcing
-
