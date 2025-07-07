@@ -43,9 +43,9 @@ This module from the **Pre-Security Path** on TryHackMe introduced me to the fun
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
-### 🧰 Gobuster
+###  Gobuster
 A tool used to find hidden web pages on websites.
 
 **Command Example:**
