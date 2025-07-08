@@ -122,15 +122,6 @@ or
 sudo dnf install nmap
 ```
 
----
-
-##  Archiving & Compressing
-
-###  Extract `.tar` files:
-
-```bash
-tar -xvf archive.tar
-```
 
 ###  Create compressed `.tar.gz` archive:
 
