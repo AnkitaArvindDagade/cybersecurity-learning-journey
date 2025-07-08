@@ -84,19 +84,6 @@ Change file permissions using:
 ```bash
 chmod 755 script.sh
 ```
-
-###  Breakdown of 755:
-
-- `7` = `rwx` (read, write, execute)  
-- `5` = `r-x`  
-- `5` = `r-x`  
-
-So:
-
-- **Owner**: read, write, execute  
-- **Group**: read, execute  
-- **Others**: read, execute  
-
 ---
 
 ##  Switching Users
