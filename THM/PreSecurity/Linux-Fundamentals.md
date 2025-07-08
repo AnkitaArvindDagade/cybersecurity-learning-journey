@@ -39,7 +39,6 @@ This module introduced me to the Linux operating system, a critical part of most
 - `r` = read  
 - `w` = write  
 - `x` = execute  
-- First set = **owner**, second = **group**, third = **others**
 
 ---
 
@@ -56,7 +55,7 @@ This module introduced me to the Linux operating system, a critical part of most
 | `mv`          | Move or rename files           |
 | `rm`          | Delete files                   |
 | `cat`         | View file content              |
-| `nano` / `vim`| Edit files                     |
+| `nano` / `vim`| text editor                    |
 | `clear`       | Clear terminal screen          |
 
 ---
