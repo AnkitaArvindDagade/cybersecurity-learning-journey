@@ -67,7 +67,7 @@ This module introduced me to the Linux operating system, a critical part of most
 find / -name target.txt 2>/dev/null
 ```
 
-## 🔍 grep – Search Inside Files
+##  grep – Search Inside Files
 
 Search for a keyword inside a file:
 
