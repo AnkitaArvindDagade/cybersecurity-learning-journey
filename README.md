@@ -13,7 +13,6 @@ I'm passionate about security and want to build a strong foundation in:
 - Ethical Hacking
 - Penetration Testing
 - Bug Bounty
-- SOC/Blue Team operations
 
 This repo helps me:
 - Track my progress
