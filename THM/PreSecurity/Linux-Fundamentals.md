@@ -65,7 +65,7 @@ This module introduced me to the Linux operating system, a critical part of most
 - `find` – Search for files:
 ```bash
 find / -name target.txt 2>/dev/null
-
+```
 
 ## 🔍 grep – Search Inside Files
 
